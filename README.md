@@ -2,7 +2,7 @@
 
 ![](/banner.png)
 
-[![](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](#) [![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()  [![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
+[![](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](#) [![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)  [![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
 
 
 # Social Networks
@@ -14,11 +14,15 @@
 ---
 
 # Laptop Specification
-![](https://img.shields.io/badge/asus-Rog_STRIX_G713QR-007DB8?style=for-the-badge&logo=asus&logoColor=white)
+[![](https://img.shields.io/badge/asus-Rog_STRIX_G713QR-007DB8?style=for-the-badge&logo=asus&logoColor=white)](#)
 
-![](https://img.shields.io/badge/AMD-Ryzen_9_5900HZX_with_Radeon_Graphics-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+[![](https://img.shields.io/badge/AMD-Ryzen_9_5900HZX_with_Radeon_Graphics-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](#)
 
-![](https://img.shields.io/badge/NVIDIA-RTX3070_8GB_Laptop_GPU-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+[![](https://img.shields.io/badge/NVIDIA-RTX3070_8GB_Laptop_GPU-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](#)
+
+
+
+
 
 ---
 # GitHub Stats
