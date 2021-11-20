@@ -4,8 +4,6 @@
 
 [![](https://shields-io-visitor-counter.herokuapp.com/badge?page=aruznieto&label=Visitas+Al+Perfil&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)](#)
 
-![GitHub watchers](https://img.shields.io/github/watchers/aruznieto/aruznieto?label=VISITAS%20AL%20PERFIL&logo=GITHUB&style=for-the-badge)
-
 ---
 
 [![](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](#) [![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)  [![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
