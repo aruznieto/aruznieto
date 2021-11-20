@@ -2,13 +2,12 @@
 
 ![](/banner.png)
 
-![](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+[![](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)]() [![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()  [![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
 
 
 # Social Networks
----
 
-[![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aruznieto) [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aruznieto) [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aruznieto/) [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aruznieto) [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aruznieto.es)
+[![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aruznieto){:target="_blank"} [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aruznieto) [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aruznieto/) [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aruznieto) [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aruznieto.es)
 
 [![Twitch Status](https://img.shields.io/badge/Twitch-6441a5?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/aruznieto) [![YouTube Channel Subscribers](https://img.shields.io/badge/YouTube-c4302b?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC5Lm-BQGubMqaggbzi9Q1mA)
 
