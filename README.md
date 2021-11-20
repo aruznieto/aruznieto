@@ -14,7 +14,7 @@
 ---
 
 # Laptop Specification
-[![](https://img.shields.io/badge/asus-Rog_STRIX_G713QR-007DB8?style=for-the-badge&logo=asus&logoColor=white)](#)
+[![](https://img.shields.io/badge/asus-Rog_STRIX_G713QR-007DB8?style=for-the-badge&logo=asus&logoColor=white)](https://rog.asus.com/es/laptops/rog-strix/rog-strix-g-g731-series/)
 
 [![](https://img.shields.io/badge/AMD-Ryzen_9_5900HZX_with_Radeon_Graphics-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](#)
 
