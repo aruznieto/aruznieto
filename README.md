@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=aruznieto)
+![](https://komarev.com/ghpvc/?username=aruznieto&label=VISITAS+A+MI+PERFIL)
 
 <!--
 **aruznieto/aruznieto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
