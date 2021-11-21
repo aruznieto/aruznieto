@@ -11,6 +11,8 @@ MSc Telecommunication Engineering Student at the [Polytechnic University of Vale
 BSc on Telecommunication Engineering at the [Polytecnhic University of Cartagena](https://upct.es/). [TFG](https://repositorio.upct.es/handle/10317/17)
 
 
+Research support technical personnel at [GIRTEL group](https://girtel.upct.es/).
+
 Professional Drone Pilot with practical certification in STS scenarios.
 
 Radiophonist, this enables me to communicate with the control tower of an airport or with other aircrafts that are flying in the area. This certificate is necessary to carry out flights in controlled airspace.
