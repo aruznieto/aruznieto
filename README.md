@@ -1,7 +1,8 @@
 # Hi there! 👋 I am Andrés 👨‍💻
 
-![](/banner.png)
 <div align="center">
+
+![](/banner.png)
 
 [![](https://shields-io-visitor-counter.herokuapp.com/badge?page=aruznieto&label=Visitas+Al+Perfil&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)](#)
 
