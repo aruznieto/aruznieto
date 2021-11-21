@@ -5,6 +5,14 @@
 
 [![](https://shields-io-visitor-counter.herokuapp.com/badge?page=aruznieto&label=Visitas+Al+Perfil&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)](#)
 
+MSc Telecommunication Engineering Student at the [Polytechnic University of Valencia](http://www.upv.es/es). 
+
+BSc on Telecommunication Engineering at the [Polytecnhic University of Cartagena](https://upct.es/). 
+
+Professional Drone Pilot with practical certification in STS scenarios.
+
+Radiophonist, this enables me to communicate with the control tower of an airport or with other aircrafts that are flying in the area. This certificate is necessary to carry out flights in controlled airspace.
+
 ---
 
 
@@ -32,9 +40,7 @@
 ---
 # GitHub Stats 📊
 
-[![](https://github-readme-stats.vercel.app/api?username=aruznieto)](#)
-
-[![](https://github-readme-streak-stats.herokuapp.com/?user=aruznieto)](#)
+[![](https://github-readme-stats.vercel.app/api?username=aruznieto)](#) [![](https://github-readme-streak-stats.herokuapp.com/?user=aruznieto)](#)
 
 </div>
 
