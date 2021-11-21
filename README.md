@@ -1,10 +1,12 @@
-# Hi! 👋
+# Hi there! 👋 I am Andrés 👨‍💻
 
 ![](/banner.png)
+<div align="center">
 
 [![](https://shields-io-visitor-counter.herokuapp.com/badge?page=aruznieto&label=Visitas+Al+Perfil&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)](#)
 
 ---
+
 
 [![](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](#) [![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)  [![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
 
@@ -25,7 +27,7 @@
 
 [![](https://img.shields.io/badge/NVIDIA-RTX3070_8GB_Laptop_GPU-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](#)
 
-[![](https://img.shields.io/badge/ram-32GB_RAM_3200MHz-007DB8?style=for-the-badge&logo=asus&logoColor=white)](#)
+[![](https://img.shields.io/badge/ram-32GB_RAM_3200MHz-007DB8?style=for-the-badge&logoColor=white)](#)
 
 ---
 # GitHub Stats 📊
@@ -34,7 +36,7 @@
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=aruznieto)](#)
 
-
+</div>
 
 <!--
 **aruznieto/aruznieto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
