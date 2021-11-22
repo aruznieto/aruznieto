@@ -17,10 +17,15 @@ Professional Drone Pilot with practical certification in STS scenarios.
 
 Radiophonist, this enables me to communicate with the control tower of an airport or with other aircrafts that are flying in the area. This certificate is necessary to carry out flights in controlled airspace.
 
+[![](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](#) [![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)  [![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
+
 ---
 
+# Spotify Now Playing 🎼
 
-[![](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](#) [![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)  [![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11138592771&cover_image=true&theme=novatorem&bar_color=3700ff&bar_color_cover=true)](#)
+
+---
 
 # Social Networks 🔗
 
