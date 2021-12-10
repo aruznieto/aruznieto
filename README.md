@@ -47,6 +47,12 @@ Radiophonist, this enables me to communicate with the control tower of an airpor
 [![](https://img.shields.io/badge/ram-32GB_RAM_3200MHz-007DB8?style=for-the-badge&logoColor=white)](#)
 
 ---
+
+# Programming Languages 📚
+
+[![](https://wakatime.com/share/@20416a2b-dfd9-49bf-bb3f-e0b05d403d24/37ca7c7b-6cff-43c3-aec5-8a0c8d2cae58.svg)](#)
+
+---
 # GitHub Stats 📊
 
 [![](https://github-readme-stats.vercel.app/api?username=aruznieto)](#) [![](https://github-readme-streak-stats.herokuapp.com/?user=aruznieto)](#)
