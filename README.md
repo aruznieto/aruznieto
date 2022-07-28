@@ -47,6 +47,8 @@ Radiophonist, this enables me to communicate with the control tower of an airpor
 [![](https://img.shields.io/badge/NVIDIA-RTX3070_8GB_Laptop_GPU-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](#)
 
 [![](https://img.shields.io/badge/ram-32GB_RAM_3200MHz-007DB8?style=for-the-badge&logoColor=white)](#)
+  
+[![](https://img.shields.io/badge/MacBook%20PRO-M1%20PRO%20with%201TB%20%20SSD%20Storageand%2016%20Unified%20Memory-ED1C24?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/shop/buy-mac/macbook-pro/14-inch-space-gray-10-core-cpu-16-core-gpu-1tb)
 
 ---
 
