@@ -1,7 +1,5 @@
 # Hi there! 👋 I am Andrés 👨‍💻
 
-<!-- replace x.x.x with actual version -->
-<script src="https://unpkg.com/@codersrank/summary@x.x.x/codersrank-summary.min.js"></script>
 <div align="center">
 
 [![](/banner.png)](#)
