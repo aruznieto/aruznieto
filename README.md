@@ -6,7 +6,9 @@
 
 [![](https://shields-io-visitor-counter.herokuapp.com/badge?page=aruznieto&label=Visitas+Al+Perfil&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)](#)
 
-Information and Communication Technology PhD Candidate (FPI Fellowship - MICINN; Ministry of Science and Innovation) at the [Polytecnhic University of Cartagena](https://upct.es/).
+Cyber Defense Fundamental Specialty Student at [Spanish Air Force Officers Academy](https://ejercitodelaire.defensa.gob.es/EA/ejercitodelaire/es/Unidades/Unidad/937527de-9f2c-11ee-b1b1-005056bf91c5/?resourceId=937527de-9f2c-11ee-b1b1-005056bf91c5&path=/sites/internet.es/.content/unidad/unidad_00073.xml)
+
+Information and Communication Technology PhD Candidate at the [Polytecnhic University of Cartagena](https://upct.es/).
 
 MSc Telecommunication Engineering Student at the [Polytechnic University of Valencia](http://www.upv.es/es). 
 
